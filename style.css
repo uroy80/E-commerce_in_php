@@ -1,0 +1,113 @@
+.navbar{
+    display: flex;
+
+    justify-content: right;
+    align-items: center;
+    width: auto;
+    height: 40px;
+
+}
+
+.txt{
+    position: absolute;
+    left: 10px;
+}
+/*.nb{
+    height: 50px;
+    width:150px;
+    background-color: yellowgreen;
+    border-radius: 10px;
+    text-align: center;
+}*/
+.nba{
+
+    text-decoration: none;
+    color: white;
+
+}
+
+/*.nb:hover{
+    background-color: #2a5d84;
+    font-size: 20px;
+
+}*/
+.nba:hover{
+    color: black;
+}
+
+.nb1{
+    height: 50px;
+    width:150px;
+    background-color: darkgreen;
+    border-radius: 10px;
+    text-align: center;
+    align-content: center;
+
+}
+.nb2{
+    height: 50px;
+    width:150px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    text-align: center;
+    align-content: center;
+    font-weight: bolder;
+
+}
+.nb3{
+    height: 50px;
+    width:150px;
+    background-color: yellowgreen;
+    border-radius: 10px;
+    text-align: center;
+    align-content: center;
+    font-weight: bolder;
+}
+.nb4{
+    height: 50px;
+    width:150px;
+    background-color: blue;
+    border-radius: 10px;
+    text-align: center;
+    align-content: center;
+    font-weight: bolder;
+}
+.nb5{
+    height: 50px;
+    width:150px;
+    background-color: red;
+    border-radius: 10px;
+    text-align: center;
+    align-content: center;
+    font-weight: bolder;
+}
+
+.nb1:hover{
+    background-color: #2a5d84;
+    font-size: 20px;
+
+}.nb2:hover{
+     background-color: #2a5d84;
+     font-size: 20px;
+
+ }.nb3:hover{
+      background-color: #2a5d84;
+      font-size: 20px;
+
+  }.nb4:hover{
+       background-color: #2a5d84;
+       font-size: 20px;
+
+   }.nb5:hover{
+        background-color: #2a5d84;
+        font-size: 20px;
+
+    }
+
+    #p1{
+        font-size: 20px;
+    }
+    #p2{
+
+    }
+
